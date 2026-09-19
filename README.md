@@ -20,10 +20,10 @@ I care more about things working well than looking impressive. A simple, reliabl
 ## Tech I usually work with 🛠️
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,r,js,java,c,sklearn,nodejs,express,spring,react&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,r,js,java,sklearn,nodejs,express&perline=8" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=spring,react,postgres,mysql,mongodb,docker&perline=8" />
 </p>
 
 I'm still learning a lot of this, and I'd rather go deep on a few tools than skim through many.
