@@ -20,10 +20,7 @@ I care more about things working well than looking impressive. A simple, reliabl
 ## Tech I usually work with 🛠️
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,r,js,java,c&perline=8" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,nodejs,express,spring,react&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,r,js,java,c,sklearn,nodejs,express,spring,react&perline=8" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker&perline=8" />
