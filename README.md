@@ -1,5 +1,4 @@
-<img width="3780" height="1890" alt="GitHub profile banner" src="https://github.com/user-attachments/assets/be7d85dd-9d55-48c1-bae3-07ba71144e15" />
-# Hi there, I'm Swairi 👋
+# Hi there, I'm Swairi 👋🏼
 
 ## Who am I 🙋‍♀️
 
@@ -18,7 +17,7 @@ I care more about things working well than looking impressive. A simple, reliabl
 - Distributed systems patterns: messaging, sagas, and handling failure gracefully
 - MLOps, or getting models out of notebooks and into something real
 
-## Tech I usually work with 🛠️
+## Tech I usually work with 🤖
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,r,js,java,sklearn,nodejs,express&perline=8" />
