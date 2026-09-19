@@ -1,3 +1,4 @@
+<img width="3780" height="1890" alt="GitHub profile banner" src="https://github.com/user-attachments/assets/be7d85dd-9d55-48c1-bae3-07ba71144e15" />
 # Hi there, I'm Swairi 👋
 
 ## Who am I 🙋‍♀️
